@@ -1,0 +1,301 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CallLoveAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 325}}";
+			sepNavSelRange = "{226, 0}";
+			sepNavVisRange = "{0, 530}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CallLoveAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 1768}}";
+			sepNavSelRange = "{1849, 0}";
+			sepNavVisRange = "{0, 1434}";
+			sepNavWindowFrame = "{{38, 474}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CallLove */ = {
+		activeExec = 0;
+		executables = (
+			8CFD8BC315CD2BF0001DB34C /* CallLove */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CallLoveViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 620}}";
+			sepNavSelRange = "{797, 0}";
+			sepNavVisRange = "{0, 869}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CallLoveViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 2249}}";
+			sepNavSelRange = "{2162, 0}";
+			sepNavVisRange = "{1824, 541}";
+			sepNavWindowFrame = "{{61, 453}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8CFD8BC315CD2BF0001DB34C /* CallLove */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CallLove */;
+		addToTargets = (
+		);
+		codeSenseManager = 8CFD8BC815CD2C0F001DB34C /* Code sense */;
+		executables = (
+			8CFD8BC315CD2BF0001DB34C /* CallLove */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 365767664;
+			PBXWorkspaceStateSaveDate = 365767664;
+		};
+		perUserProjectItems = {
+			8CFD8C1115CD4DD5001DB34C /* PBXTextBookmark */ = 8CFD8C1115CD4DD5001DB34C /* PBXTextBookmark */;
+			8CFD8C1315CD4DD5001DB34C /* PBXTextBookmark */ = 8CFD8C1315CD4DD5001DB34C /* PBXTextBookmark */;
+			8CFD8C1415CD4DD5001DB34C /* PBXTextBookmark */ = 8CFD8C1415CD4DD5001DB34C /* PBXTextBookmark */;
+			8CFD8D4215CD6D5A001DB34C /* PlistBookmark */ = 8CFD8D4215CD6D5A001DB34C /* PlistBookmark */;
+			8CFD8D4315CD6D5A001DB34C /* PlistBookmark */ = 8CFD8D4315CD6D5A001DB34C /* PlistBookmark */;
+			8CFD8DB015CD8726001DB34C /* PBXTextBookmark */ = 8CFD8DB015CD8726001DB34C /* PBXTextBookmark */;
+			8CFD8DB115CD8726001DB34C /* PBXTextBookmark */ = 8CFD8DB115CD8726001DB34C /* PBXTextBookmark */;
+			8CFD8DC415CD8A1E001DB34C /* PlistBookmark */ = 8CFD8DC415CD8A1E001DB34C /* PlistBookmark */;
+			8CFD8DD815CD8B09001DB34C /* PBXTextBookmark */ = 8CFD8DD815CD8B09001DB34C /* PBXTextBookmark */;
+			8CFD8DD915CD8B09001DB34C /* PBXTextBookmark */ = 8CFD8DD915CD8B09001DB34C /* PBXTextBookmark */;
+			8CFD8DDE15CD8B29001DB34C /* XCBuildMessageTextBookmark */ = 8CFD8DDE15CD8B29001DB34C /* XCBuildMessageTextBookmark */;
+			8CFD8DDF15CD8B29001DB34C /* PBXTextBookmark */ = 8CFD8DDF15CD8B29001DB34C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8CFD8BC715CD2C0F001DB34C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 620}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* CallLove_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 620}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	8CFD8BC315CD2BF0001DB34C /* CallLove */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CallLove;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8CFD8BC715CD2C0F001DB34C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8CFD8BC815CD2C0F001DB34C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8CFD8C1115CD4DD5001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CFD8C1215CD4DD5001DB34C /* UIApplication.h */;
+		name = "UIApplication.h: 277";
+		rLen = 119;
+		rLoc = 14781;
+		rType = 0;
+		vrLen = 4586;
+		vrLoc = 13271;
+	};
+	8CFD8C1215CD4DD5001DB34C /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		name = UIApplication.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h;
+		sourceTree = "<absolute>";
+	};
+	8CFD8C1315CD4DD5001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CallLove_Prefix.pch */;
+		name = "CallLove_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	8CFD8C1415CD4DD5001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 12";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	8CFD8C1615CD4DD5001DB34C /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = /Users/svp/Documents/CallLove/Settings.bundle/Root.plist;
+		sourceTree = "<absolute>";
+	};
+	8CFD8D3F15CD6CE9001DB34C /* Constants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 620}}";
+			sepNavSelRange = "{252, 20}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+	8CFD8D4215CD6D5A001DB34C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8CFD8C0F15CD4D84001DB34C /* savedContact.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			recordID,
+		);
+		name = /Users/svp/Documents/CallLove/savedContact.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8CFD8D4315CD6D5A001DB34C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8CFD8C1615CD4DD5001DB34C /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			PreferenceSpecifiers,
+			0,
+			DefaultValue,
+		);
+		name = /Users/svp/Documents/CallLove/Settings.bundle/Root.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8CFD8DB015CD8726001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8CFD8D3F15CD6CE9001DB34C /* Constants.h */;
+		name = "Constants.h: 13";
+		rLen = 20;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	8CFD8DB115CD8726001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CallLoveViewController.h */;
+		name = "CallLoveViewController.h: 25";
+		rLen = 0;
+		rLoc = 797;
+		rType = 0;
+		vrLen = 869;
+		vrLoc = 0;
+	};
+	8CFD8DC415CD8A1E001DB34C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* CallLove-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/svp/Documents/CallLove/CallLove-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8CFD8DD815CD8B09001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CallLoveViewController.m */;
+		name = "CallLoveViewController.m: 105";
+		rLen = 0;
+		rLoc = 3142;
+		rType = 0;
+		vrLen = 659;
+		vrLoc = 2919;
+	};
+	8CFD8DD915CD8B09001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CallLoveAppDelegate.h */;
+		name = "CallLoveAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 226;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 0;
+	};
+	8CFD8DDE15CD8B29001DB34C /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Assignment discards qualifiers from pointer target type";
+		fRef = 1D3623250D0F684500981E51 /* CallLoveAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 36;
+		rType = 1;
+	};
+	8CFD8DDF15CD8B29001DB34C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CallLoveAppDelegate.m */;
+		name = "CallLoveAppDelegate.m: 58";
+		rLen = 0;
+		rLoc = 1849;
+		rType = 0;
+		vrLen = 1434;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* CallLove-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{84, 432}, {750, 558}}";
+		};
+	};
+}
