@@ -1,1 +1,1 @@
-Call-BFF is my first simple iOS application that is going to App Store.
+Simple iOS application that allows you to make and icon that instantly calls selected person when pressed
